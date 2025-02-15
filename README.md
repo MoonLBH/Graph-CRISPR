@@ -70,3 +70,5 @@ After using RNA-FM to obtain the embedding representation of each sgRNA, RNA-FM 
 
 **delete.py**  
 After using mxfold2 to obtain the secondary structure of each sgRNA, run this script to delete redundant parts of the generated result file, producing a `.txt` file that can be directly used as the `rna_strc_path` in the config file.
+
+The uploaded datasets and training/prediction code are provided for reference and can be modified according to your specific needs.
